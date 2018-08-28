@@ -10,6 +10,7 @@ info:
   license:
     name: Creative Commons By Attribution 4.0
     url: 'https://creativecommons.org/licenses/by/4.0'
+  termsOfService: https://github.com/bio2rdf/bio2rdf-scripts/wiki/Terms-of-use
 paths:
   "/resources":
     get:
